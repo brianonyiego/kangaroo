@@ -403,7 +403,7 @@ https://www.mdpi.com/1996-1073/15/19
 
 Your Name
 
-GitHub: @yourusername
+GitHub: @brianonyiego
 
 ## License
 
